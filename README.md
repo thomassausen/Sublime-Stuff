@@ -12,7 +12,6 @@
 - PackageControl - https://sublime.wbond.net/
 - Sidebarenhancement - https://sublime.wbond.net/packages/SideBarEnhancements
 - Syntaxhighlighting for Sass - https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass
-- Theme Brogrammer - https://sublime.wbond.net/packages/Theme%20-%20Brogrammer
 - Theme Spacegray - https://sublime.wbond.net/packages/Theme%20-%20Spacegray
 
 # Settings
