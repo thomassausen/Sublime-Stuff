@@ -17,6 +17,7 @@
 - PackageControl: https://sublime.wbond.net/
 - Sass: https://packagecontrol.io/packages/Sass
 - Sidebarenhancement: https://sublime.wbond.net/packages/SideBarEnhancements
+- SublimeLinter 3: https://github.com/SublimeLinter/SublimeLinter3
 - Syntaxhighlighting for Sass: https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass
 - Theme - Flatland: https://github.com/thinkpixellab/flatland
 - Theme - Soda: http://buymeasoda.github.io/soda-theme/
